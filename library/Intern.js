@@ -14,5 +14,12 @@ class Intern extends Employee{
     }
 }
 
+// const hall = new Intern('hall', 1, 'hall@gmail.com', 'Bama State')
+// const david = new Intern('david', 2, 'david@gmail.com', 'Washington State')
+// hall.getRole() //Intern
+// hall.getSchool() //Bama State
+
+// david.getRole() //Intern
+// david.getSchool()// Washington State
 
 module.exports = Intern

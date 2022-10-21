@@ -1,0 +1,23 @@
+{
+  "name": "my-teammates",
+  "version": "1.0.0",
+  "description": "backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davjhall/my-teammates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davjhall/my-teammates/issues"
+  },
+  "homepage": "https://github.com/davjhall/my-teammates#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.2.0"
+  }
+}
