@@ -2,7 +2,7 @@
 
 ## Description
 
-Motivation behind this project was to cut down on time inputting each and every new employee one by one. With this software you now have time to focus on bigger projects and tasks.
+This project is focused on the Backend and was recorded to show its functionality. The motivation behind it was to cut down on time inputting each new employee one by one. With this software you now have time to focus on bigger projects and tasks.
 
 
 
